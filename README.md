@@ -21,6 +21,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 🎞️ Entertainment
+
+![music](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2poMDM1d2drcmJheDF0Y2lkd3llZ3g4dmZieG80ZjhsbWx6Nm5weSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif)
+![cinema](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J3aTZlZzU0Nm4wOHZjdDZqNmVmZnJ4anQ4Y3dkdWl1OHl1ZWsxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U8FvqfxkzxoSpokGaW/giphy.gif)
+
 ## 📫 Contact Me
 
 - LinkedIn: sastha sastha
