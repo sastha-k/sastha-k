@@ -23,6 +23,7 @@
 
 ## 🎞️ Entertainment
 ![music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![movie](	https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
 
 ![music](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2poMDM1d2drcmJheDF0Y2lkd3llZ3g4dmZieG80ZjhsbWx6Nm5weSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif)
