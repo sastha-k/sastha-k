@@ -5,19 +5,18 @@
 # 👋 Hi, I'm  SASTHA
 
 🎓 I'm a b.tech IT student at NPR college of engineering and technology  
-💻 I love working on  web development, app development, AI  
-📚 Currently learning: AIML,full stack,canva
+💻 I love working on  UIUX Designer
+📚 Currently learning: full stack,adobe XD
 
 ## 🚀 Projects
 
-- [CoolProject](https://github.com/yourusername/CoolProject) - A short description of what it does
-- [PortfolioWebsite](https://github.com/yourusername/PortfolioWebsite) - Your personal website
-- [AI-Mini-Project](https://github.com/yourusername/AI-Mini-Project) - Something cool with AI or data
+- Website design for company.
+- best life app design
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
