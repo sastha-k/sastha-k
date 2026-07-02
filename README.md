@@ -18,12 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📈 Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sastha-k&bg_color=000000&color=4c9e52&line=754c9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 🎞️ Entertainment
 ![music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
