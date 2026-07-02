@@ -5,7 +5,9 @@
 # 👋 Hi, I'm  SASTHA
 
 🎓 I'm a b.tech IT student at NPR college of engineering and technology  
+
 💻 I love working on  UIUX Designer
+
 📚 Currently learning: full stack,adobe XD
 
 ## 🚀 Projects
