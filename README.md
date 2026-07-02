@@ -4,7 +4,8 @@
 
 # 👋 Hi, I'm  SASTHA
 
-🎓 I'm a b.tech IT student at NPR college of engineering and technology  
+🎓 I'm a b.tech IT (2024–2028) student at NPR college of engineering and technology  
+
 
 💻 I love working on  UIUX Designer
 
